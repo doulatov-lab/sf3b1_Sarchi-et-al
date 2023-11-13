@@ -1,4 +1,4 @@
-## Single-cell Data Analysis with Scanpy
+## Doulatov SF3B1 single cell analysis pipeline
 
 ### Pipeline:
 1. 1_filtering.ipynb
